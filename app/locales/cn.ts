@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "现在是未授权状态，请在设置页输入访问密码。",
+    Unauthorized: "本站授权码，puls账号代开，个人独享chatgpt账号+api，高速apikey购买请访问http://chatvvvvfa.owley.co。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -145,7 +145,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "本站使用最新chatgpt3.5api接口无需魔法网络即可访问，如需使用更高版本请联系作者",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
