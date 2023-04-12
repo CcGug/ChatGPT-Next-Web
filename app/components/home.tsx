@@ -119,7 +119,7 @@ function _Home() {
         className={styles.sidebar + ` ${showSideBar && styles["sidebar-show"]}`}
       >
         <div className={styles["sidebar-header"]}>
-          <div className={styles["sidebar-title"]}>ChatGPT 遇到问题或如需更高版本联系+v in_1577</div>
+          <div className={styles["sidebar-title"]}>免魔法使用ChatGPT 联系作者请添加微信in_157</div>
           <div className={styles["sidebar-sub-title"]}>
             Build your own AI assistant.
           </div>
